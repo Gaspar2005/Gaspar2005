@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hola, soy Gaspar 👋
 
-<!--
-**Gaspar2005/Gaspar2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante universitario de programación.  
+Actualmente cursando Fundamentos de Programación y desarrollando proyectos en C.
 
-Here are some ideas to get you started:
+Me interesa entender cómo funcionan las cosas a nivel lógico y estructural, no solo que el programa compile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Sobre mí
+
+- Estudiante de carreras de informática  
+- Lenguaje principal: C  
+- Uso Git para control de versiones  
+- Trabajo con código modular y buenas prácticas  
+- Entorno habitual: Linux
+
+---
+
+### Tecnologías
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+---
+
+### Proyectos
+
+- 🕹️ **Simpsoncraft**  
+  Trabajo práctico de la materia Fundamentos de Programación.  
+  Juego por consola en C que utiliza structs, modularización, validaciones y manejo de estados.
+
+- 📂 Otros trabajos prácticos académicos en desarrollo
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaspar2005&show_icons=true&theme=dark)
+
+---
+
+Aprendiendo paso a paso, priorizando código claro y prolijo.
+
