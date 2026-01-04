@@ -32,7 +32,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaspar2005&show_icons=true&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gaspar2005&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
 ---
 
