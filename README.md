@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gaspar2005&show_icons=true&theme=dark&hide_border=true" />
+ <img src="https://stats-github-readme.vercel.app/api?username=Gaspar2005&show_icons=true&theme=dark" />
 </p>
 
 ---
