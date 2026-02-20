@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
- <img src="https://stats-github-readme.vercel.app/api?username=Gaspar2005&show_icons=true&theme=dark" />
+<img src="https://stats-github-readme.vercel.app/api?username=Gaspar2005&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 </p>
 
 ---
